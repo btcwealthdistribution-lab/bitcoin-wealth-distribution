@@ -1,0 +1,3 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://btcwealthdistribution.github.io/bitcoin-wealth-distribution/sitemap.xml
